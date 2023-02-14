@@ -1,0 +1,5 @@
+Rozkład normalny
+Rozkład wykładniczy
+Rozkład La Placa (+wart bezwzględna (dwa warianty))
+Rayleigha
+Maxwella
